@@ -1,0 +1,4 @@
+[PTT]
+command=/path/to/ptt.sh getstate
+interval=1
+label=🎤
